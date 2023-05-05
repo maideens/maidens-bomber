@@ -1,5 +1,4 @@
 # ◈ Maidens-Bomb
-Bu program düzenlenerek ve alıntılar yapılarak oluşturulmuştur.
 
 ![image](https://user-images.githubusercontent.com/48116924/226446340-b1e4f256-c902-4ce6-82ce-1255b2c3e006.png)
 ![2](https://user-images.githubusercontent.com/48116924/226446388-aeebeacd-1856-46e5-9e39-9b440a4a0548.png)
